@@ -10,12 +10,22 @@
 
 ## 🛠 Tech Stack
 
-### ☕ Language & 🌱 Framework
+☕ **Language**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,jpa,mysql,py" />
+  <img src="https://skillicons.dev/icons?i=java,py" />
 </p>
 
-### ☁️ Infra & DevOps
+🌱 **Framework**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+🗄️ **Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+☁️ **Infra & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
@@ -23,8 +33,9 @@
 ---
 
 ## 🧰 Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,notion,slack,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,notion,discord" />
 </p>
 
 ---
@@ -47,3 +58,4 @@
 |---|---|
 
 </div>
+
