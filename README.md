@@ -17,7 +17,7 @@
 
 🌱 **Framework**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 🗄️ **Database**
@@ -27,7 +27,7 @@
 
 ☁️ **Infra & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx" />
 </p>
 
 ---
