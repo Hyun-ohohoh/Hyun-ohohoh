@@ -27,7 +27,7 @@
 
 ☁️ **Infra & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
 </p>
 
 ---
@@ -58,4 +58,3 @@
 |---|---|
 
 </div>
-
