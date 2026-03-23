@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7711,100:6db33f&height=150&section=header&text=Hi,%20I'm%20NAHO&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-> **Currently compiling my career.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Currently+compiling+my+career.)](https://git.io/typing-svg)
 
 </div>
 
