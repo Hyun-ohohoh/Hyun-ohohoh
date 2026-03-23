@@ -17,7 +17,7 @@
 
 🌱 **Framework**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
 🗄️ **Database**
@@ -58,3 +58,4 @@
 |---|---|
 
 </div>
+
