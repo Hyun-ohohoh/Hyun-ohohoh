@@ -54,7 +54,7 @@
 
 <div align="center">
 
-| ![Hyun-ohohoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-ohohoh&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-ohohoh&layout=donut&theme=default&hide_border=true&cache_seconds=1800) |
+| ![Hyun-ohohoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-ohohoh&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-ohohoh&layout=donut&theme=dark&hide_border=true&cache_seconds=1800) |
 |---|---|
 
 </div>
