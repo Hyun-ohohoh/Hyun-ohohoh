@@ -38,13 +38,3 @@
   <img src="https://skillicons.dev/icons?i=git,github,idea,postman,notion,discord" />
 </p>
 
----
-
-## 📝 Algorithm
-
-<div align="center">
-
-[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nho1108)](https://solved.ac/nho1108)
-
-</div>
-
