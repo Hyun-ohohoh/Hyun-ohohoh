@@ -22,7 +22,7 @@
 
 🗄️ **Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 </p>
 
 ☁️ **Infra & DevOps**
