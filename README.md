@@ -4,7 +4,7 @@
 
 ### 실제 데이터를 수집·저장·서빙하는 백엔드를 만들고 있습니다.
 
-<a href="mailto:naho021108@gmail.com"><img src="https://img.shields.io/badge/naho021108@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="mailto:naho021108@gmail.com"><img src="https://img.shields.io/badge/Gmail-naho021108%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
 </div>
 
