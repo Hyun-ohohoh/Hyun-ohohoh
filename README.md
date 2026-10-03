@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7711,100:6db33f&height=180&section=header&text=Hi,%20I'm%20NAHO&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-**실제 데이터를 수집·저장·서빙하는 백엔드를 만들고 있습니다.**
+### 실제 데이터를 수집·저장·서빙하는 백엔드를 만들고 있습니다.
+
+<a href="mailto:naho021108@gmail.com"><img src="https://img.shields.io/badge/naho021108@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 </div>
 
 - 명지대학교 스마트모빌리티공학(교통공학) 전공 · 컴퓨터공학 복수전공
 - 팀 프로젝트는 Java/Spring Boot로, 교통 데이터 개인 프로젝트는 Python/FastAPI로 개발했습니다.
-- 📫 [naho021108@gmail.com](mailto:naho021108@gmail.com)
-
 ---
 
 ## 📂 Projects
